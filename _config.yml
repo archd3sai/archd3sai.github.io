@@ -34,27 +34,27 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+facebook: arch1996
+# twitter: mytwitter
+instagram: arch_d3sai
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: archdesai
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: archd3sai
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: archdesai.ad@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
+    name: Arch Desai
     bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg
